@@ -5,6 +5,20 @@ Created on Tue Apr  7 06:20:01 2020
 @author: Novin
 """
 
+a = 0
+
+while a < 10:
+   print(a)
+   a = a + 1
+
+
+
+
+
+
+
+
+'''
 words = ['apple' , 'banana' ,'orange' , 'cherry' ,'straberry']
 
 quality = ['A','B','A+','C','B+' , 'C+']
@@ -15,7 +29,7 @@ for count,ele in enumerate(words,100):
     
     
 
-'''
+
 for item in words[2:5]:
     print(item)
     
