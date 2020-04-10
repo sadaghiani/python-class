@@ -3,7 +3,7 @@
 	
 word = "google.com'"
 
-characterFrequency = {} 
+characterFrequency = {}  
   
 for i in word: 
     if i in characterFrequency: 
